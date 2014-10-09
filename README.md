@@ -18,10 +18,10 @@ or
 
     node ./test/mocha/node-suite.js
     
-# rawgithub
+# rawgit
 
 view the browser suite directly on 
-[rawgithub](https://rawgithub.com/getify/normalize-selector/master/test/mocha/browser-suite.html)
+[rawgit](https://rawgit.com/getify/normalize-selector/master/test/mocha/browser-suite.html)
 
 ## License
 
